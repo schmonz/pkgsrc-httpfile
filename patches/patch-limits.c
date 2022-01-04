@@ -1,4 +1,4 @@
-$NetBSD$
+$NetBSD: patch-limits.c,v 1.1 2022/01/04 22:35:24 schmonz Exp $
 
 Work around "unable to set RLIMIT_DATA to 0" on macOS.
 

@@ -1,4 +1,4 @@
-# $NetBSD: Makefile,v 1.1 2021/10/21 20:38:35 schmonz Exp $
+# $NetBSD: Makefile,v 1.2 2022/01/04 22:35:24 schmonz Exp $
 
 GITHUB_PROJECT=		httpfile
 GITHUB_TAG=		20220101
